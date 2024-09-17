@@ -1,12 +1,12 @@
-¿Cuál es su edad?,¿Cuál es su nivel educativo?,¿Cuál es su ocupación?,¿En qué tipo de vivienda reside?,¿Cuál es su nivel de ingresos mensual?,¿En qué área o zona de la ciudad reside?
-18-24 años,Educación universitaria,Estudiante,Vivienda compartida,$400 - $800,Sur
-18-24 años,Educación universitaria,Estudiante,Apartamento,Menos de $400,Sur
-18-24 años,Educación universitaria,Estudiante,Casa,$400 - $800,Norte
-25-34 años,Educación técnica o tecnológica,Estudiante,Vivienda compartida,Menos de $400,Norte
-18-24 años,Educación universitaria,Estudiante,Casa,No genero ingreso,Norte
-18-24 años,Educación universitaria,Estudiante,Casa,$801 - $1200,Norte
-18-24 años,Educación universitaria,Estudiante,Vivienda compartida,No genero ingreso,Sur
-35-44 años,Educación técnica o tecnológica,Trabajador a tiempo completo,Apartamento,$400 - $800,Centro
-18-24 años,Educación universitaria,Estudiante,Casa,Menos de $400,Sur
-25-34 años,Educación universitaria,Trabajador a tiempo completo,Casa,$400 - $800,Centro
-35-44 años,Educación técnica o tecnológica,Trabajador a tiempo completo,Casa,$400 - $800,Centro
+Edad,¨Cu l es su nivel educativo?,¨Cu l es su ocupaci¢n?,¨En qu‚ tipo de vivienda reside?,¨Cu l es su nivel de ingresos mensual?,¨En qu‚  rea o zona de la ciudad reside?
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Vivienda compartida,$400 - $800,Sur
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Apartamento,Menos de $400,Sur
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Casa,$400 - $800,Norte
+25-34 a¤os,Educaci¢n t‚cnica o tecnol¢gica,Estudiante,Vivienda compartida,Menos de $400,Norte
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Casa,No genero ingreso,Norte
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Casa,$801 - $1200,Norte
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Vivienda compartida,No genero ingreso,Sur
+35-44 a¤os,Educaci¢n t‚cnica o tecnol¢gica,Trabajador a tiempo completo,Apartamento,$400 - $800,Centro
+18-24 a¤os,Educaci¢n universitaria,Estudiante,Casa,Menos de $400,Sur
+25-34 a¤os,Educaci¢n universitaria,Trabajador a tiempo completo,Casa,$400 - $800,Centro
+35-44 a¤os,Educaci¢n t‚cnica o tecnol¢gica,Trabajador a tiempo completo,Casa,$400 - $800,Centro
